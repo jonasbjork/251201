@@ -18,3 +18,6 @@ mac-jonas säger: macOS rulez!
 BSOD for ever! Bash is for evil administrators.
 Use the power, shell.
 
+## This will not work. windows.
+
+this will not work. windows.
