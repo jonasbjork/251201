@@ -9,7 +9,12 @@ Vi tittar bara på hur git fungerar.
 
 This will solve it.
 
+## macOS
 
 mac-jonas säger: macOS rulez!
 
+## Windows RUlez!
+
+BSOD for ever! Bash is for evil administrators.
+Use the power, shell.
 
