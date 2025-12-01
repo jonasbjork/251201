@@ -13,8 +13,7 @@ This will solve it.
 
 mac-jonas säger: macOS rulez!
 
-## Windows RUlez!
-
+## Windows RUlez! = false
 BSOD for ever! Bash is for evil administrators.
 Use the power, shell.
 
