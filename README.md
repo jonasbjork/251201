@@ -9,3 +9,7 @@ Vi tittar bara på hur git fungerar.
 
 This will solve it.
 
+
+mac-jonas säger: macOS rulez!
+
+
